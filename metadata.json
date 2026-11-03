@@ -1,0 +1,6 @@
+{
+  "name": "Indi Labs - AI Faceless Content Studio",
+  "description": "Swiss Performance AI-Powered Faceless Content Studio for multi-market high-RPM AdSense video automation, multi-channel hub, script & storyboard studio, natural voiceover, 6-stage batch pipeline, and multi-platform scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
